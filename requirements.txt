@@ -1,0 +1,4 @@
+# for desktop testing of main.py (without buildozer/android)
+kivy==2.3.0
+requests
+cryptography
